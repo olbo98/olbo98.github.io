@@ -1,0 +1,62 @@
+body {
+    font-family: 'Karla', sans-serif;
+    margin: 0;
+}
+
+nav {
+    background-color: #191919;
+    text-align: center;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+}
+
+p {
+    margin: 0;
+}
+
+.title {
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    font-size: 4em;
+    color: white;
+    margin: 0;
+}
+
+.song-title {
+    margin-bottom: 0;
+}
+
+.melodi {
+    font-style: italic;
+    margin-top: 0.5em;
+    margin-bottom: 0;
+}
+
+.vers {
+    margin-top: 1.5em;
+}
+
+#festen{
+    margin-top: 5em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+#ode {
+    margin-top: 4em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+#var-redo {
+    margin-top: 4em;
+    padding-left: 5em;
+    padding-right: 11em;
+}
+
+#livet {
+    margin-top: 4em;
+    margin-bottom: 5em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
