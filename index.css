@@ -24,19 +24,19 @@ p {
 }
 
 .song-title {
-    font-size: 6em;
+    font-size: 4em;
     margin-bottom: 0;
 }
 
 .melodi {
     font-style: italic;
-    font-size: 3em;
+    font-size: 2em;
     margin-top: 0.5em;
     margin-bottom: 0;
 }
 
 .vers {
-    margin-top: 1.5em;
+    margin-top: 2em;
 }
 
 #festen{
