@@ -9,9 +9,9 @@ body {
 
 .fake-id img{
     transform: rotate(90deg);
-    width: 130%;
+    width: 120%;
     margin-top: 45%;
-    margin-left: -14%;
+    margin-left: -10%;
     grid-row-start: 1;
     grid-column-start: 1;
 }
