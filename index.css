@@ -5,12 +5,13 @@ body {
 .fake-id{
     display: grid;
     grid-template-columns: 1fr;
-    padding-top: 6%;
 }
 
 .fake-id img{
-    width: 70%;
-    margin-left: 12%;
+    transform: rotate(90deg);
+    width: 130%;
+    margin-top: 45%;
+    margin-left: -14%;
     grid-row-start: 1;
     grid-column-start: 1;
 }
@@ -20,21 +21,20 @@ body {
 }
 
 #fake-id-second{
-    width: 70%;
     /*position: absolute;
     width: 922.594px;
     height: 581.031px;
     top: 87.078px;
     left: 166.156px;*/
     animation-name: fade-in-out;
-    animation-duration: 5s;
+    animation-duration: 4s;
     animation-iteration-count: infinite;
 }
 
 .exit-button{
-    width: 7%;
-    margin-left: 5%;
-    margin-bottom: 18%;
+    width: 12%;
+    margin-left: 44%;
+    margin-top: 33%;
 }
 
 @keyframes fade-in-out{
