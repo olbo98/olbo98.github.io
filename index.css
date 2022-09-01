@@ -10,7 +10,7 @@ body {
 .fake-id img{
     transform: rotate(90deg);
     width: 120%;
-    margin-top: 15%;
+    margin-top: 30%;
     margin-left: -10%;
     grid-row-start: 1;
     grid-column-start: 1;
