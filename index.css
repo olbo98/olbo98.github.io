@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+.fake-id{
+    padding-top: 6%;
+}
+
+.fake-id-img{
+    width: 70%;
+    margin-left: 12%;
+}
+
+#fake-id-second{
+    position: absolute;
+    width: 922.594px;
+    height: 581.031px;
+    top: 87.078px;
+    left: 166.156px;
+    animation-name: fade-in-out;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+.exit-button{
+    width: 7%;
+    margin-left: 5%;
+    margin-bottom: 18%;
+}
+
+@keyframes fade-in-out{
+    0% {opacity: 1.0;}
+    50% {opacity: 0.0;}
+    100% {opacity: 1.0;}
+}
