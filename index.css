@@ -10,15 +10,12 @@ body {
 
 .fake-id img{
     transform: rotate(90deg);
-    width: 120%;
+    /*width: 120%;*/
+    width: 140%;
     margin-top: 50%;
-    margin-left: -10%;
+    margin-left: -19%;
     grid-row-start: 1;
     grid-column-start: 1;
-}
-
-.fake-id-img{
-    
 }
 
 #fake-id-second{
@@ -33,9 +30,11 @@ body {
 }
 
 .exit-button{
-    width: 12%;
+    /*width: 12%*/
+    width: 15%;
     margin-left: 44%;
-    margin-top: 33%;
+    /*margin-top: 33%*/
+    margin-top: 36%;
     padding-bottom: 5%;
 }
 
