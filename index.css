@@ -3,6 +3,7 @@ body {
 }
 
 .fake-id{
+    padding-top: 20%;
     display: grid;
     grid-template-columns: 1fr;
 }
